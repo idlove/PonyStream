@@ -1,0 +1,15 @@
+{
+  "name": "ponystream",
+  "version": "0.1.0",
+  "description": "Ponystream video streaming service for ponychan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JohnDoe",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "0.0.5",
+    "jade": "^1.9.2"
+  }
+}
