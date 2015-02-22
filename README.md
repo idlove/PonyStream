@@ -19,4 +19,4 @@ You can also stop the stream, with <code>http://yourhost:port/stop</code>
 <br/>
 Visitors can watch stream at <code>http://yourhost:port/video</code>
 
-#Enjoy!
+<h3>Enjoy!</h3>
